@@ -1,6 +1,6 @@
 # AI/ML Projects
 
-This repository contains a curated collection of AI, machine learning, deep learning, computer vision, and generative AI projects. Each project folder includes a clean Jupyter notebook converted from the original HTML export, along with the input files required to understand or rerun the work.
+This repository contains a curated collection of AI, machine learning, deep learning, computer vision, and generative AI projects. Each project folder includes a clean Jupyter notebook, along with the input files required to understand or rerun the work.
 
 ## Repository Structure
 
